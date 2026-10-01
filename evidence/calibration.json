@@ -1,0 +1,62 @@
+[
+  {
+    "bracket": "0.0-0.1",
+    "orders": 1398,
+    "mean_predicted_risk": 0.0465,
+    "actual_return_rate": 0.0515
+  },
+  {
+    "bracket": "0.1-0.2",
+    "orders": 418,
+    "mean_predicted_risk": 0.1387,
+    "actual_return_rate": 0.1411
+  },
+  {
+    "bracket": "0.2-0.3",
+    "orders": 149,
+    "mean_predicted_risk": 0.2445,
+    "actual_return_rate": 0.2617
+  },
+  {
+    "bracket": "0.3-0.4",
+    "orders": 70,
+    "mean_predicted_risk": 0.3446,
+    "actual_return_rate": 0.2714
+  },
+  {
+    "bracket": "0.4-0.5",
+    "orders": 46,
+    "mean_predicted_risk": 0.4448,
+    "actual_return_rate": 0.4783
+  },
+  {
+    "bracket": "0.5-0.6",
+    "orders": 23,
+    "mean_predicted_risk": 0.5412,
+    "actual_return_rate": 0.6957
+  },
+  {
+    "bracket": "0.6-0.7",
+    "orders": 6,
+    "mean_predicted_risk": 0.6489,
+    "actual_return_rate": 0.6667
+  },
+  {
+    "bracket": "0.7-0.8",
+    "orders": 6,
+    "mean_predicted_risk": 0.7558,
+    "actual_return_rate": 0.6667
+  },
+  {
+    "bracket": "0.8-0.9",
+    "orders": 7,
+    "mean_predicted_risk": 0.8482,
+    "actual_return_rate": 1.0
+  },
+  {
+    "bracket": "0.9-1.0",
+    "orders": 3,
+    "mean_predicted_risk": 0.9443,
+    "actual_return_rate": 1.0
+  }
+]

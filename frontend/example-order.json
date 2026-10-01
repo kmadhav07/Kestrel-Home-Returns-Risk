@@ -1,0 +1,19 @@
+{
+  "order_id": "KO2611078",
+  "order_placed_at": "2026-07-27 15:47",
+  "customer_id": "KC107502",
+  "sku": "KH-WP-02",
+  "sales_channel": "marketplace",
+  "payment_mode": "cod",
+  "discount_pct": 24,
+  "qty": 1,
+  "order_value_inr": 11399.24,
+  "promised_delivery_days": 6,
+  "delivery_pincode": 440612,
+  "is_gift": "N",
+  "customer_prior_orders": 1,
+  "customer_prior_returns": 0,
+  "delivery_note": "Deliver after 6 pm",
+  "last_service_event_type": "NONE",
+  "source": "crm"
+}

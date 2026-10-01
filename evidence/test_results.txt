@@ -1,0 +1,5 @@
+Kestrel Returns Risk Test Suite Execution
+Tests Run: 14
+Failures: 0
+Errors: 0
+Status: PASSED

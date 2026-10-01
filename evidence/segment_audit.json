@@ -1,0 +1,162 @@
+{
+  "sales_channel": [
+    {
+      "segment": "app",
+      "count": 706,
+      "actual_return_rate": 0.1204,
+      "predicted_mean_risk": 0.104
+    },
+    {
+      "segment": "marketplace",
+      "count": 569,
+      "actual_return_rate": 0.1283,
+      "predicted_mean_risk": 0.1334
+    },
+    {
+      "segment": "partner_outlet",
+      "count": 269,
+      "actual_return_rate": 0.0967,
+      "predicted_mean_risk": 0.0897
+    },
+    {
+      "segment": "web",
+      "count": 582,
+      "actual_return_rate": 0.1048,
+      "predicted_mean_risk": 0.1034
+    }
+  ],
+  "payment_mode": [
+    {
+      "segment": "cod",
+      "count": 655,
+      "actual_return_rate": 0.1985,
+      "predicted_mean_risk": 0.1793
+    },
+    {
+      "segment": "emi",
+      "count": 268,
+      "actual_return_rate": 0.1119,
+      "predicted_mean_risk": 0.0885
+    },
+    {
+      "segment": "prepaid_card",
+      "count": 442,
+      "actual_return_rate": 0.0814,
+      "predicted_mean_risk": 0.0832
+    },
+    {
+      "segment": "prepaid_upi",
+      "count": 761,
+      "actual_return_rate": 0.0644,
+      "predicted_mean_risk": 0.0731
+    }
+  ],
+  "shield_member": [
+    {
+      "segment": "N",
+      "count": 1648,
+      "actual_return_rate": 0.0892,
+      "predicted_mean_risk": 0.0907
+    },
+    {
+      "segment": "Y",
+      "count": 478,
+      "actual_return_rate": 0.205,
+      "predicted_mean_risk": 0.1761
+    }
+  ],
+  "family": [
+    {
+      "segment": "Air Fryer",
+      "count": 300,
+      "actual_return_rate": 0.1067,
+      "predicted_mean_risk": 0.1285
+    },
+    {
+      "segment": "Ceiling Fan",
+      "count": 320,
+      "actual_return_rate": 0.0719,
+      "predicted_mean_risk": 0.0626
+    },
+    {
+      "segment": "Induction Cooktop",
+      "count": 284,
+      "actual_return_rate": 0.1056,
+      "predicted_mean_risk": 0.0787
+    },
+    {
+      "segment": "Mixer Grinder",
+      "count": 301,
+      "actual_return_rate": 0.0764,
+      "predicted_mean_risk": 0.0665
+    },
+    {
+      "segment": "Robot Vacuum",
+      "count": 336,
+      "actual_return_rate": 0.1815,
+      "predicted_mean_risk": 0.1845
+    },
+    {
+      "segment": "Room Heater",
+      "count": 316,
+      "actual_return_rate": 0.1329,
+      "predicted_mean_risk": 0.1126
+    },
+    {
+      "segment": "Water Purifier",
+      "count": 269,
+      "actual_return_rate": 0.1264,
+      "predicted_mean_risk": 0.1305
+    }
+  ],
+  "state": [
+    {
+      "segment": "DL",
+      "count": 127,
+      "actual_return_rate": 0.063,
+      "predicted_mean_risk": 0.0851
+    },
+    {
+      "segment": "KA",
+      "count": 344,
+      "actual_return_rate": 0.1308,
+      "predicted_mean_risk": 0.1184
+    },
+    {
+      "segment": "MH",
+      "count": 604,
+      "actual_return_rate": 0.1159,
+      "predicted_mean_risk": 0.1145
+    },
+    {
+      "segment": "MP",
+      "count": 234,
+      "actual_return_rate": 0.1282,
+      "predicted_mean_risk": 0.1123
+    },
+    {
+      "segment": "RJ",
+      "count": 246,
+      "actual_return_rate": 0.126,
+      "predicted_mean_risk": 0.1181
+    },
+    {
+      "segment": "TN",
+      "count": 224,
+      "actual_return_rate": 0.1027,
+      "predicted_mean_risk": 0.0778
+    },
+    {
+      "segment": "TS",
+      "count": 256,
+      "actual_return_rate": 0.1055,
+      "predicted_mean_risk": 0.1155
+    },
+    {
+      "segment": "UP",
+      "count": 91,
+      "actual_return_rate": 0.1209,
+      "predicted_mean_risk": 0.1171
+    }
+  ]
+}

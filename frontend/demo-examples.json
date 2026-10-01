@@ -1,0 +1,94 @@
+[
+  {
+    "label": "High-Risk: Cash on Delivery with Prior Returns (Robot Vacuum Max)",
+    "description": "High return probability order driven by COD payment, 2 prior returns, and 8-day delivery delay.",
+    "record": {
+      "order_id": "DEMO_HIGH_RISK_01",
+      "order_placed_at": "2026-10-01 21:15",
+      "customer_id": "KC100983",
+      "sku": "KH-RV-03",
+      "sales_channel": "marketplace",
+      "payment_mode": "cod",
+      "discount_pct": 18,
+      "qty": 1,
+      "order_value_inr": 24352.36,
+      "promised_delivery_days": 8,
+      "delivery_pincode": 440314,
+      "is_gift": "N",
+      "customer_prior_orders": 3,
+      "customer_prior_returns": 2,
+      "delivery_note": "Deliver to neighbour flat 7A if not home",
+      "last_service_event_type": "NONE",
+      "source": "crm"
+    }
+  },
+  {
+    "label": "Shield VIP Member: Air Fryer Max (30-Day Free Return Policy)",
+    "description": "Valuable Shield member requiring white-glove setup confirmation rather than a delay/hold.",
+    "record": {
+      "order_id": "DEMO_SHIELD_VIP_02",
+      "order_placed_at": "2026-10-01 11:20",
+      "customer_id": "KC100012",
+      "sku": "KH-AF-03",
+      "sales_channel": "web",
+      "payment_mode": "prepaid_card",
+      "discount_pct": 10,
+      "qty": 1,
+      "order_value_inr": 7895.70,
+      "promised_delivery_days": 6,
+      "delivery_pincode": 400151,
+      "is_gift": "N",
+      "customer_prior_orders": 4,
+      "customer_prior_returns": 1,
+      "delivery_note": "Leave with security",
+      "last_service_event_type": "NONE",
+      "source": "crm"
+    }
+  },
+  {
+    "label": "Low-Risk: Express Prepaid UPI (Mixer Grinder Pro)",
+    "description": "Low return risk profile with fast 2-day delivery SLA and zero prior returns. Greenlight for auto-dispatch.",
+    "record": {
+      "order_id": "DEMO_LOW_RISK_03",
+      "order_placed_at": "2026-10-01 10:14",
+      "customer_id": "KC101598",
+      "sku": "KH-MG-01",
+      "sales_channel": "app",
+      "payment_mode": "prepaid_upi",
+      "discount_pct": 5,
+      "qty": 1,
+      "order_value_inr": 3039.05,
+      "promised_delivery_days": 2,
+      "delivery_pincode": 440075,
+      "is_gift": "N",
+      "customer_prior_orders": 2,
+      "customer_prior_returns": 0,
+      "delivery_note": "Ring twice",
+      "last_service_event_type": "NONE",
+      "source": "crm"
+    }
+  },
+  {
+    "label": "Walk-in Store Purchase: Partner Outlet (Ceiling Fan Pro)",
+    "description": "Store-assisted walk-in purchase with default 000000 pincode. High conversion and very low return risk.",
+    "record": {
+      "order_id": "DEMO_WALKIN_04",
+      "order_placed_at": "2026-10-01 16:40",
+      "customer_id": "KC103801",
+      "sku": "KH-CF-02",
+      "sales_channel": "partner_outlet",
+      "payment_mode": "prepaid_upi",
+      "discount_pct": 10,
+      "qty": 1,
+      "order_value_inr": 3149.10,
+      "promised_delivery_days": 3,
+      "delivery_pincode": 0,
+      "is_gift": "N",
+      "customer_prior_orders": 1,
+      "customer_prior_returns": 0,
+      "delivery_note": "Fragile - handle with care",
+      "last_service_event_type": "NONE",
+      "source": "crm"
+    }
+  }
+]

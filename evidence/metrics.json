@@ -1,0 +1,28 @@
+{
+  "forward_development_validation": {
+    "Logistic Regression": {
+      "val_pr_auc": 0.3883258596046826,
+      "val_roc_auc": 0.7707541051424976,
+      "val_brier": 0.08713684937103357
+    },
+    "Histogram Gradient Boosting": {
+      "val_pr_auc": 0.35602606919510027,
+      "val_roc_auc": 0.7635802056826677,
+      "val_brier": 0.08955330741247707
+    }
+  },
+  "april_june_audit": {
+    "roc_auc": 0.7869,
+    "pr_auc": 0.415,
+    "brier_score": 0.0848,
+    "accuracy": 0.8956,
+    "n_audit_orders": 2126,
+    "actual_audit_returns": 245
+  },
+  "production_model_summary": {
+    "algorithm": "Regularized Logistic Regression Pipeline",
+    "n_total_training_orders": 10504,
+    "base_rate": 0.1142,
+    "features_count": 17
+  }
+}
